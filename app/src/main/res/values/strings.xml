@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitFinder</string>
+    <string name="searchbar_hint">Search</string>
+    <string name="followers_tab">Followers</string>
+    <string name="following_tab">Following</string>
+    <string name="divider">|</string>
+    <string name="about">About</string>
+    <string name="more">more\n</string>
+    <string name="appBarTitle">GitFinder</string>
+    <string name="ava_profile">Avatar Profile</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+    <string name="theme_setting">Theme Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="fab_favorite">Fab favorite user</string>
+    <string name="appBarFavorite">Favorite</string>
+</resources>
